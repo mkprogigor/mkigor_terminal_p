@@ -1,6 +1,6 @@
 # mkigor_terminal_p
 Debug display termanal.<br>
-Serial, UART (Serial0), I2C (addr 0x39) => display terminal (st7789 240x320 px, 20x20 symbols)<br>
+Data from Serial (usb-serial port conerter or usb jtag port), UART (Serial0), I2C (addr 0x39) translate to display terminal (st7789v 240x320 px, 20x20 symbols)<br>
 Terminal accept sybols with code from 0x20 to 0x7F. Buffer has 1000 sybbols, after lost by FIFO.<br>
 Symbols 0x0D, 0x0D + 0x0A are interpreter like new line.<br>
 
