@@ -6,10 +6,4 @@ Symbols 0x0D, 0x0D + 0x0A are interpreter like new line.<br>
 Chip TXS0108E bi-directional, level-shifting, voltage translator, that do possible digital voltage level matching from 1.8 to 5.0 volt. There are 2 power suply: one for mcu esp32-c3 (it takes from USB-C) and second from "listerning" side.<br> 
 
 <img src="images/mkigor_terminal.png" alt="Scheme" style="width:70%; height:auto;"><BR>
-
-[![Project1](https://img.youtube.com/vi/hlpVMd4tN6c/0.jpg)](https://www.youtube.com/watch?v=hlpVMd4tN6c) <BR>
-
 [![Prototype](https://img.youtube.com/vi/TVSalgKr5aE/0.jpg)](https://www.youtube.com/watch?v=TVSalgKr5aE) <BR>
-
-https://img.youtube.com/watch?v=TVSalgKr5aE<br>
-https://www.youtube.com/vi/TVSalgKr5aE/0.jpg<br>
