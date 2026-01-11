@@ -7,4 +7,3 @@ Chip TXS0108E bi-directional, level-shifting, voltage translator, that do possib
 <br>
 [![Watch the video](https://img.youtube.com/vi/E8EHJTB_pYE/0.jpg)](https://youtu.be/E8EHJTB_pYE) <BR>
 <br>
-https://img.youtube.com/vi/HN013gZs_Y4/0.jpg
