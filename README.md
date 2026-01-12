@@ -16,7 +16,7 @@ The chip TXS0108E doesn't have galvanic isolation, but makes a little protection
 There are 2 power suply: one for mcu esp32-c3 (it comes from USB-C) and second from I2C or UART side.<br>
 <br>
 Thanks to very useful library Bodmer/TFT_eSPI on GitHub we've got
-MCU with cheap 2" TFT display 240×320 ST7789V GMT020-02. And it's romaines 8 GPIO, UART, I2C.
+MCU with cheap 2" TFT display 240×320 ST7789V GMT020-02. And it's remains 8 GPIO, UART, I2C.
 That's enough and suitable to many startup DIY project.<br>
 <br>
 [![Watch the video](https://img.youtube.com/vi/E8EHJTB_pYE/0.jpg)](https://youtu.be/E8EHJTB_pYE) <BR>
