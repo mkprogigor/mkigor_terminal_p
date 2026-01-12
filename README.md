@@ -1,8 +1,10 @@
 # mkigor_terminal_p
 Debug serial display terminal (dsdt).<br>
-MCU ESP32-C3 send rext data <br>
-from   UART or I2C (addr 0x39) or UDP port or Serial0 (usb-serial)<br>
-to     display terminal (2" color TFT SPI display st7789v 240x320 (GMT020-02).<br>
+MCU ESP32-C3 send text data <br>
+from <br>
+UART or I2C (addr 0x39) or UDP port or Serial0 (usb-serial)<br>
+to <br>
+display terminal (2" color TFT SPI display st7789v 240x320 (GMT020-02).<br>
 Terminal accept sybols with code from 0x20 to 0x7F. Buffer has 1000 sybbols, after lost by FIFO.<br>
 Symbols 0x0D, 0x0D + 0x0A are interpreter like new line.<br>
 <br>
