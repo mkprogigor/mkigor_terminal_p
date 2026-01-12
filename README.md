@@ -1,6 +1,5 @@
 # mkigor_terminal_p
-Debug serial display terminal (dsdt).<br>
-MCU ESP32-C3 send text data <br>
+Debug serial display terminal (dsdt). MCU ESP32-C3 send text data <br>
 from <br>
 UART or I2C (addr 0x39) or UDP port or Serial0 (usb-serial)<br>
 to <br>
